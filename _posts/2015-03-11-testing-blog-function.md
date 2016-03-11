@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Testing the blocg feature!"
+title: "Testing the blog feature!"
 date: 2014-04-30
 ---
 
