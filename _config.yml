@@ -1,3 +1,4 @@
 name: Adam Dingwell
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+url: http://dingwell.github.io
