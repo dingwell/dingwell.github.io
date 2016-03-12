@@ -11,12 +11,16 @@ Welcome to my personal webpage and blog
 (and sorry about the mess, this is still a work in progress).
 
 ## About me
-I'm a PhD-student in Meteorology at Uppsala University, Sweden.   
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+I'm a PhD-student in Meteorology at Uppsala University, Sweden.
+I work with models, I write code, and sometimes I manage to get usable results
+in which case, I write about them.
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
-
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I also have a life outside academia,
+where I write code and sometimes manage to get good results
+and write about those.
+Well, I'm always working in front of a screen;
+which reminds me: I should probably stop here and get back to this some other time.
+God night!
 
 ## About the page
 This page uses
