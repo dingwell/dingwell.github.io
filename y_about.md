@@ -19,7 +19,8 @@ I also have a life outside academia,
 where I write code and sometimes manage to get good results
 and write about those.
 Well, I'm always working in front of a screen;
-which reminds me: I should probably stop here and get back to this some other time.
+which reminds me:
+I should probably stop here and get back to this some other time.
 God night!
 
 ## About the page
