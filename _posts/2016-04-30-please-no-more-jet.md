@@ -11,7 +11,6 @@ The filename must be on this format:
 the title in the header will be the one displayed on the web pag.
 {:/comment}
 
-## Pretty colours
 When I wrote my bachelor thesis in 2009,
 I was a big fan of jet,
 the go--to colormap for many scientist.
