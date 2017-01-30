@@ -5,11 +5,15 @@ permalink: /publications/
 ---
 
 ## Peer-reviewed papers
+Arellano, S.; Yalire, M.; Galle, B.; Bobrowski, N.; Dingwell, A.; Johansson, M.;
+Norman, P. (2016)
+: Long-term monitoring of SO2 quiescent degassing from Nyiragongo's lava lake.
+*Journal of African Earth Sciences*, DOI:
+[10.1016/j.jafrearsci.2016.07.002](http://dx.doi.org/10.1016/j.jafrearsci.2016.07.002)
+
 Dingwell, A.; Rutgersson, A.; Claremar, B.; Arellano, S.; Yalire, M. M.; Galle, B. (2016)
 : Seasonal and diurnal patterns in the dispersion of SO2 from Mt. Nyiragongo.
 *Atmospheric Environment*, vol. 132, pp. 19--29, ISSN 1352-2310, DOI: [10.1016/j.atmosenv.2016.02.030](http://dx.doi.org/10.1016/j.atmosenv.2016.02.030)
-: [link to free fulltext](http://authors.elsevier.com/a/1Sd~a4pTZHOODt)
-(valid until April 20, 2016)
 
 Dingwell, A.; Rutgersson, A. (2014)
 : Estimating volcanic ash hazard in European airspace. 
@@ -23,11 +27,17 @@ Brioude, J.; Arnold, D.; Stohl, A.; Cassiani, M.; Morton, D.; Seibert, P.; Angev
 DOI: [10.5194/gmd-6-1889-2013](http://dx.doi.org/10.5194/gmd-6-1889-2013)
 
 ## Theses
+Dingwell, A. (2016)
+: Dispersion modelling of volcanic emissions.
+*Doctoral thesis*, Department of Earth Sciences, Uppsala University.
+[[Link]](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-303959)
+: *Also available as fulltext PDF -- let me know if you're intereseted*
+
 Dingwell, A. (2015)
 : Atmospheric Dispersion Modelling of Volcanic Emissions.
 *Licentiate thesis*, Department of Earth Sciences, Uppsala University.
 [[Link]](http://uu.diva-portal.org/smash/record.jsf?pid=diva2:856803&dswid=224)
-: *Available as fulltext paperback -- let me know if you're interested*
+: *Also available as fulltext paperback/PDF -- let me know if you're interested*
 
 Dingwell, A. (2010)
 : Evaluation of calculated concentrations of air pollution in
