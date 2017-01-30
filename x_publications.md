@@ -5,8 +5,7 @@ permalink: /publications/
 ---
 
 ## Peer-reviewed papers
-Arellano, S.; Yalire, M.; Galle, B.; Bobrowski, N.; Dingwell, A.; Johansson, M.;
-Norman, P. (2016)
+Arellano, S.; Yalire, M.; Galle, B.; Bobrowski, N.; Dingwell, A.; Johansson, M.; Norman, P. (2016)
 : Long-term monitoring of SO2 quiescent degassing from Nyiragongo's lava lake.
 *Journal of African Earth Sciences*, DOI:
 [10.1016/j.jafrearsci.2016.07.002](http://dx.doi.org/10.1016/j.jafrearsci.2016.07.002)

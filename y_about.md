@@ -21,15 +21,15 @@ I also have a life outside work (which often means different kinds of work).
 Every now and then, I get the chance to do something I really enjoy, such as:
 cross country skiing, cycling, growing pumpkins, sewing historic clothing,
 dressing up in historic clothing, dancing in historic clothing, picnicking in
-historic clothing... On second though: sed 's/({verbs})/\1 in historic
-clothing/g' this whole paragraph (and the next one).
+historic clothing...
+on second thought: sed *'s/({verbs})/\1 in historic clothing/g'* this whole paragraph (and the next one).
 
 I also gather and analyze different kinds of everyday life statistics,
 build time-~~wasting~~saving household robots,
 and occasionally do some scientific studies on simple things
 that many take for granted
 (like how much water do you actually use
-when doing the dishes under the tap compared to when using the sink?)
+when doing the dishes under a running tap compared to when using the sink?)
 
 ## About the page
 This page uses
