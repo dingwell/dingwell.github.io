@@ -68,6 +68,7 @@ These are the steps I used to download the data for my colleague.
 previous snapshot when done)
 
 ~~~ bash
+#!/bin/bash
 # Install docker (assuming you're on Ubuntu):
 sudo apt-get install docker.io
 
@@ -90,6 +91,7 @@ until the download has finished!
 When your data is downloaded, stop docker:
 
 ~~~ bash
+#!/bin/bash
 sudo docker images  # This will print a code, 
 sudo docker stop <code>
 sudo service docker stop
@@ -98,6 +100,7 @@ sudo service docker stop
 Optionally: Uninstall docker from your system:
 
 ~~~ bash
+#!/bin/bash
 sudo apt-get purge docker*
 sudo apt-get autoremove
 ~~~
