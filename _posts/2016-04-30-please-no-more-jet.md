@@ -85,3 +85,16 @@ even for scientists.
 So please, do everyone a favour, and inform your peers/teachers/students
 that there are better alternatives to 'jet' and the other traditional
 (or should I say 'old-school'?) colormaps.
+
+## Update May 3, 2017: Now also for ncview
+[ncview](http://meteora.ucsd.edu/~pierce/ncview_home_page.html)
+is a handy tool for quickly visualizing netcdf or hdf data.
+A nice thing abount ncview is that it allows you to add your own colormaps,
+so I exported a set of 256-colour versions of the maps as well:
+|[Viridis]({{ site.baseurl }}/assets/blogposts/2016-04-30/viridis.ncmap)|[Plasma]({{ site.baseurl }}/assets/blogposts/2016-04-30/plasma.ncmap)|[Magma]({{site.baseurl }}/assets/blogposts/2016-04-30/magma.ncmap)|[Inferno]({{ site.baseurl }}/assets/blogposts/2016-04-30/inferno.ncmap)|
+Install these by copying them to <code>/usr/share/ncview</code> or put them
+anywhere you like and set your environment accordingly, e.g.:
+~~~ bash
+export NCVIEWBASE=$HOME/colormaps/ncview
+~~~
+Enjoy!
