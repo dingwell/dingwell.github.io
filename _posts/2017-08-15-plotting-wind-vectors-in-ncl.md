@@ -91,6 +91,7 @@ data-lightbox="winds_1.png">
 <img src="{{ site.baseurl }}/assets/blogposts/2016-08-15/winds_1.png"
 title="Wind vector comparison">
 </a>
+
 This is a subset of the domain I was working with,
 the left-hand figure shows the native WRF-grid which uses a Lambert Conical projection.
 Denmark is located down in the right-hand corner of the image
@@ -139,6 +140,7 @@ data-lightbox="winds_1.png">
 <img src="{{ site.baseurl }}/assets/blogposts/2016-08-15/winds_2.png"
 title="Wind vector comparison">
 </a>
+
 Same as above but with the correct wind field plotted in the leftmost image.
 
 Hopefully I will not make this mistake again...
