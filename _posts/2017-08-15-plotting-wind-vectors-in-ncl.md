@@ -2,7 +2,7 @@
 layout: post
 title: "Plotting wind vectors in NCL"
 date: 2017-08-15
-categories: [coding,data]
+categories: coding
 tags: ncl
 ---
 {::comment}
