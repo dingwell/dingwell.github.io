@@ -94,7 +94,9 @@ so I exported a set of 256-colour versions of the maps as well:
 |[Viridis]({{ site.baseurl }}/assets/blogposts/2016-04-30/viridis.ncmap)|[Plasma]({{ site.baseurl }}/assets/blogposts/2016-04-30/plasma.ncmap)|[Magma]({{site.baseurl }}/assets/blogposts/2016-04-30/magma.ncmap)|[Inferno]({{ site.baseurl }}/assets/blogposts/2016-04-30/inferno.ncmap)|
 Install these by copying them to <code>/usr/share/ncview</code> or put them
 anywhere you like and set your environment accordingly, e.g.:
+
 ~~~ bash
 export NCVIEWBASE=$HOME/colormaps/ncview
 ~~~
+
 Enjoy!
