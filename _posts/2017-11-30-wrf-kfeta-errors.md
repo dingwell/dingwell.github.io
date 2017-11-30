@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WRF kf\_eta errors and possible solutions"
+title: "WRF kF_ETA errors and possible solutions"
 date: 2017-11-30
 categories: modelling
 tags: wrf
@@ -13,7 +13,7 @@ the title in the header will be the one displayed on the web pag.
 
 This is a short reference of possible causes for the kf-eta-related errors:
 ~~~
-WOULD GO OFF TOP: KF\_ETA\_PARA ...
+WOULD GO OFF TOP: KF_ETA_PARA ...
 ~~~
 There are many suggested solutions for these but I always manage to find some new way to
 produce these crashes.
